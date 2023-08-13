@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-rfvkpjf$=&zmv4w7h78j5e7$#n2oj=*297v-oxvmgq9h22l0#g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "blog-azy0.onrender.com"
+]
 
 
 # Application definition
